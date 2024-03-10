@@ -28,6 +28,7 @@ namespace FakeShadows
 
         [Header("Debug")]
         [SerializeField] private Transform _testTransform;
+        private bool _isShadowsEnabled = true;
 
         private void Awake()
         {
@@ -39,6 +40,11 @@ namespace FakeShadows
             if (_testTransform != null)
                 _testTransform.gameObject.SetActive(false);
 #endif
+        }
+
+        public void SetEnableShadows(bool enable)
+        {
+            _isShadowsEnabled = enable;
         }
 
         private void FixedUpdate()
@@ -76,7 +82,7 @@ namespace FakeShadows
 
             Shader.SetGlobalVectorArray(PROP_LIGHTS_ARRAY, _lightsData);
             Shader.SetGlobalVector(PROP_PLAYER_SHADOW_POSITION, playerPosition + PLAYER_POSITION_OFFSET);
-            Shader.SetGlobalVector(PROP_FAKE_SHADOWS_ARGS, new Vector4(_playerRadius, _shadowStrength, 0, 0));
+            Shader.SetGlobalVector(PROP_FAKE_SHADOWS_ARGS, new Vector4(_playerRadius, _shadowStrength * (_isShadowsEnabled ? 1 : 0), 0, 0));
         }
 
 #if UNITY_EDITOR
