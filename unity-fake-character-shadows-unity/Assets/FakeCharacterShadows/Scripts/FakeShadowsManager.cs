@@ -22,7 +22,9 @@ namespace FakeShadows
 
         [Header("Runtime Data")]
         [SerializeField] private float _playerRadius = 0.5f;
+        public float playerRadius { get => _playerRadius; set => _playerRadius = value; }
         [SerializeField, Range(0f, 1f)] private float _shadowStrength = 0.7f;
+        public float shadowStrength { get => _shadowStrength; set => _shadowStrength = value; }
         private Vector4[] _lightsData = new Vector4[4];
         private Collider[] _overlappedLights = new Collider[0];
 
