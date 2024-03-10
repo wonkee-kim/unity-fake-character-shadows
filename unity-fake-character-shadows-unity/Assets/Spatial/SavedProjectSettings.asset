@@ -1,0 +1,425 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b67484f324c45fcba3b6221e368bfa, type: 3}
+  m_Name: SavedProjectSettings
+  m_EditorClassIdentifier: 
+  publishedSDKVersion: 1.19.0
+  customCollisionSettings:
+  - layer1: 6
+    layer2: 6
+    ignore: 1
+  - layer1: 6
+    layer2: 7
+    ignore: 1
+  - layer1: 6
+    layer2: 8
+    ignore: 1
+  - layer1: 6
+    layer2: 9
+    ignore: 1
+  - layer1: 6
+    layer2: 10
+    ignore: 1
+  - layer1: 6
+    layer2: 11
+    ignore: 1
+  - layer1: 6
+    layer2: 12
+    ignore: 1
+  - layer1: 6
+    layer2: 13
+    ignore: 1
+  - layer1: 6
+    layer2: 14
+    ignore: 1
+  - layer1: 6
+    layer2: 29
+    ignore: 1
+  - layer1: 6
+    layer2: 30
+    ignore: 0
+  - layer1: 6
+    layer2: 31
+    ignore: 1
+  - layer1: 7
+    layer2: 7
+    ignore: 0
+  - layer1: 7
+    layer2: 8
+    ignore: 0
+  - layer1: 7
+    layer2: 9
+    ignore: 0
+  - layer1: 7
+    layer2: 10
+    ignore: 0
+  - layer1: 7
+    layer2: 11
+    ignore: 0
+  - layer1: 7
+    layer2: 12
+    ignore: 0
+  - layer1: 7
+    layer2: 13
+    ignore: 0
+  - layer1: 7
+    layer2: 14
+    ignore: 0
+  - layer1: 7
+    layer2: 29
+    ignore: 0
+  - layer1: 7
+    layer2: 30
+    ignore: 0
+  - layer1: 7
+    layer2: 31
+    ignore: 0
+  - layer1: 8
+    layer2: 8
+    ignore: 0
+  - layer1: 8
+    layer2: 9
+    ignore: 0
+  - layer1: 8
+    layer2: 10
+    ignore: 0
+  - layer1: 8
+    layer2: 11
+    ignore: 0
+  - layer1: 8
+    layer2: 12
+    ignore: 0
+  - layer1: 8
+    layer2: 13
+    ignore: 0
+  - layer1: 8
+    layer2: 14
+    ignore: 0
+  - layer1: 8
+    layer2: 29
+    ignore: 0
+  - layer1: 8
+    layer2: 30
+    ignore: 0
+  - layer1: 8
+    layer2: 31
+    ignore: 0
+  - layer1: 9
+    layer2: 9
+    ignore: 0
+  - layer1: 9
+    layer2: 10
+    ignore: 0
+  - layer1: 9
+    layer2: 11
+    ignore: 0
+  - layer1: 9
+    layer2: 12
+    ignore: 0
+  - layer1: 9
+    layer2: 13
+    ignore: 0
+  - layer1: 9
+    layer2: 14
+    ignore: 0
+  - layer1: 9
+    layer2: 29
+    ignore: 0
+  - layer1: 9
+    layer2: 30
+    ignore: 0
+  - layer1: 9
+    layer2: 31
+    ignore: 0
+  - layer1: 10
+    layer2: 10
+    ignore: 0
+  - layer1: 10
+    layer2: 11
+    ignore: 0
+  - layer1: 10
+    layer2: 12
+    ignore: 0
+  - layer1: 10
+    layer2: 13
+    ignore: 0
+  - layer1: 10
+    layer2: 14
+    ignore: 0
+  - layer1: 10
+    layer2: 29
+    ignore: 0
+  - layer1: 10
+    layer2: 30
+    ignore: 0
+  - layer1: 10
+    layer2: 31
+    ignore: 0
+  - layer1: 11
+    layer2: 11
+    ignore: 0
+  - layer1: 11
+    layer2: 12
+    ignore: 0
+  - layer1: 11
+    layer2: 13
+    ignore: 0
+  - layer1: 11
+    layer2: 14
+    ignore: 0
+  - layer1: 11
+    layer2: 29
+    ignore: 0
+  - layer1: 11
+    layer2: 30
+    ignore: 0
+  - layer1: 11
+    layer2: 31
+    ignore: 0
+  - layer1: 12
+    layer2: 12
+    ignore: 0
+  - layer1: 12
+    layer2: 13
+    ignore: 0
+  - layer1: 12
+    layer2: 14
+    ignore: 0
+  - layer1: 12
+    layer2: 29
+    ignore: 0
+  - layer1: 12
+    layer2: 30
+    ignore: 0
+  - layer1: 12
+    layer2: 31
+    ignore: 0
+  - layer1: 13
+    layer2: 13
+    ignore: 0
+  - layer1: 13
+    layer2: 14
+    ignore: 0
+  - layer1: 13
+    layer2: 29
+    ignore: 0
+  - layer1: 13
+    layer2: 30
+    ignore: 0
+  - layer1: 13
+    layer2: 31
+    ignore: 0
+  customCollision2DSettings:
+  - layer1: 6
+    layer2: 6
+    ignore: 0
+  - layer1: 6
+    layer2: 7
+    ignore: 0
+  - layer1: 6
+    layer2: 8
+    ignore: 0
+  - layer1: 6
+    layer2: 9
+    ignore: 0
+  - layer1: 6
+    layer2: 10
+    ignore: 0
+  - layer1: 6
+    layer2: 11
+    ignore: 0
+  - layer1: 6
+    layer2: 12
+    ignore: 0
+  - layer1: 6
+    layer2: 13
+    ignore: 0
+  - layer1: 6
+    layer2: 14
+    ignore: 0
+  - layer1: 6
+    layer2: 29
+    ignore: 0
+  - layer1: 6
+    layer2: 30
+    ignore: 0
+  - layer1: 6
+    layer2: 31
+    ignore: 0
+  - layer1: 7
+    layer2: 7
+    ignore: 0
+  - layer1: 7
+    layer2: 8
+    ignore: 0
+  - layer1: 7
+    layer2: 9
+    ignore: 0
+  - layer1: 7
+    layer2: 10
+    ignore: 0
+  - layer1: 7
+    layer2: 11
+    ignore: 0
+  - layer1: 7
+    layer2: 12
+    ignore: 0
+  - layer1: 7
+    layer2: 13
+    ignore: 0
+  - layer1: 7
+    layer2: 14
+    ignore: 0
+  - layer1: 7
+    layer2: 29
+    ignore: 0
+  - layer1: 7
+    layer2: 30
+    ignore: 0
+  - layer1: 7
+    layer2: 31
+    ignore: 0
+  - layer1: 8
+    layer2: 8
+    ignore: 0
+  - layer1: 8
+    layer2: 9
+    ignore: 0
+  - layer1: 8
+    layer2: 10
+    ignore: 0
+  - layer1: 8
+    layer2: 11
+    ignore: 0
+  - layer1: 8
+    layer2: 12
+    ignore: 0
+  - layer1: 8
+    layer2: 13
+    ignore: 0
+  - layer1: 8
+    layer2: 14
+    ignore: 0
+  - layer1: 8
+    layer2: 29
+    ignore: 0
+  - layer1: 8
+    layer2: 30
+    ignore: 0
+  - layer1: 8
+    layer2: 31
+    ignore: 0
+  - layer1: 9
+    layer2: 9
+    ignore: 0
+  - layer1: 9
+    layer2: 10
+    ignore: 0
+  - layer1: 9
+    layer2: 11
+    ignore: 0
+  - layer1: 9
+    layer2: 12
+    ignore: 0
+  - layer1: 9
+    layer2: 13
+    ignore: 0
+  - layer1: 9
+    layer2: 14
+    ignore: 0
+  - layer1: 9
+    layer2: 29
+    ignore: 0
+  - layer1: 9
+    layer2: 30
+    ignore: 0
+  - layer1: 9
+    layer2: 31
+    ignore: 0
+  - layer1: 10
+    layer2: 10
+    ignore: 0
+  - layer1: 10
+    layer2: 11
+    ignore: 0
+  - layer1: 10
+    layer2: 12
+    ignore: 0
+  - layer1: 10
+    layer2: 13
+    ignore: 0
+  - layer1: 10
+    layer2: 14
+    ignore: 0
+  - layer1: 10
+    layer2: 29
+    ignore: 0
+  - layer1: 10
+    layer2: 30
+    ignore: 0
+  - layer1: 10
+    layer2: 31
+    ignore: 0
+  - layer1: 11
+    layer2: 11
+    ignore: 0
+  - layer1: 11
+    layer2: 12
+    ignore: 0
+  - layer1: 11
+    layer2: 13
+    ignore: 0
+  - layer1: 11
+    layer2: 14
+    ignore: 0
+  - layer1: 11
+    layer2: 29
+    ignore: 0
+  - layer1: 11
+    layer2: 30
+    ignore: 0
+  - layer1: 11
+    layer2: 31
+    ignore: 0
+  - layer1: 12
+    layer2: 12
+    ignore: 0
+  - layer1: 12
+    layer2: 13
+    ignore: 0
+  - layer1: 12
+    layer2: 14
+    ignore: 0
+  - layer1: 12
+    layer2: 29
+    ignore: 0
+  - layer1: 12
+    layer2: 30
+    ignore: 0
+  - layer1: 12
+    layer2: 31
+    ignore: 0
+  - layer1: 13
+    layer2: 13
+    ignore: 0
+  - layer1: 13
+    layer2: 14
+    ignore: 0
+  - layer1: 13
+    layer2: 29
+    ignore: 0
+  - layer1: 13
+    layer2: 30
+    ignore: 0
+  - layer1: 13
+    layer2: 31
+    ignore: 0

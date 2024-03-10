@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LocalPlayerOnly
+  - CustomLayer2
+  - CustomLayer3
+  - CustomLayer4
+  - CustomLayer5
+  - CustomLayer6
+  - CustomLayer7
+  - CustomLayer8
+  - Vehicles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - AvatarRemote
+  - AvatarLocal
+  - Environment
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
